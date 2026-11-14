@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-JanLabh (जनलाभ) is a simple, that helps citizens find and claim government welfare schemes from start to finish. Everything runs directly inside your browser, meaning your personal details, income, and documents are checked on your own device and are never sent to external servers. It instantly calculates how much guaranteed cash or loan assistance you qualify for, shows you exactly why you meet each scheme's rules, and points out the single most important missing document you need to get the most financial help. Once you're ready, it prepares your application details so you can easily copy them into official portals and track your application until the money is paid out.
+JanLabh (जनलाभ) is a simple web application, that helps citizens find and claim government welfare schemes from start to finish. Everything runs directly inside your browser, meaning your personal details, income, and documents are checked on your own device and are never sent to external servers. It instantly calculates how much guaranteed cash or loan assistance you qualify for, shows you exactly why you meet each scheme's rules, and points out the single most important missing document you need to get the most financial help. Once you're ready, it prepares your application details so you can easily copy them into official portals and track your application until the money is paid out.
 
 ---
 
