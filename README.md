@@ -5,6 +5,13 @@
 
 ---
 
+## Executive Summary
+
+Government welfare discovery portals (like myScheme) address the information problem by listing schemes across central and state ministries. However, eligible citizens continue to drop out due to the execution problem—document fragmentation, complex eligibility jargon, and bureaucratic form friction.
+JanLabh is an entitlement workspace built around a 100% client-side deterministic evaluation engine. It evaluates eligibility locally without server transmission, isolates guaranteed cash transfers from contingent credit facilities, and features a Cross-Scheme Gap Matrix that highlights the single highest-leverage missing document needed to unlock multiple welfare programs.
+
+---
+
 ## What It Does
 
 Unlike passive search directories, JanLabh focuses on **last-mile execution**:
