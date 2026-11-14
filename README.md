@@ -26,9 +26,4 @@ Unlike passive search directories, JanLabh focuses on **last-mile execution**:
 
 ---
 
-## Quick Start
 
-1. Clone or download the repository.
-2. Open `index.html` directly in any modern browser, or serve locally:
-   ```bash
-   python3 -m http.server 8000
